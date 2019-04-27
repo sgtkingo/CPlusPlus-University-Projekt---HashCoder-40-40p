@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1526066515 source:h:\add\vsb\i_2017\alg\2sem\jirkaprojekt2\projekt2v1\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cctype>
+	<cmath>
+	<algorithm>
+
+1526145764 source:h:\add\vsb\i_2017\alg\2sem\jirkaprojekt2\solution\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cmath>
+
+1526145764 source:e:\vsb\2017_ict\alg\2sem\jirkaprojekt2\solution\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cmath>
+

@@ -1,0 +1,44 @@
+  PTC Installation assistant log file
+========= PIM Version: 4.2.0 ==========
+so lis 25 21:50:14 17
+=======================================
+      Mathcad Prime Installation
+=======================================
+ Sessioninfo xml file :C:\Users\jirka\AppData\Local\Temp\7ZipSfx.000\pim\xml\sessioninfo.xml)
+sessioninfo created
+PimTop-sessioninfo created
+before test communication
+set platforms
+set languages prop
+Microsoft .NET Framework 4 Client Profile was found to be installed. 
+Microsoft .NET Framework 4 was found to be installed. 
+A Microsoft component required only if you install PTC Mathcad Prime.
+Installation root path set to: C:\Program Files\PTC
+Starting the installation of PTC Mathcad Prime.
+Starting the installation of PTC Mathcad Viewable Support.
+Starting the installation of Diagnostic Tools.
+so lis 25 21:50:59 17
+Retrieve file: https://esd.ptc.com/files/PIM/MED-60893-CD-240_M010/mathcad_viewable_support/Data1.cab.
+PTC Mathcad 15 M045 or later is required to convert older 
+Mathcad documents to PTC Mathcad Prime 4.0. 
+To enable conversion functionality, you can download and install 
+PTC Mathcad 15 M045 or later by visiting
+http://www.ptc.com/engineering-math-software/mathcad/free-trial
+		Cached file: C:\Users\jirka\AppData\Roaming\PTC Download\MED-60893-CD-240_M010\mathcad_viewable_support\Data1.cab in 22 seconds.
+Retrieve file: https://esd.ptc.com/files/PIM/MED-60893-CD-240_M010/mathcad_viewable_support/MathCAD.mst.
+		Cached file: C:\Users\jirka\AppData\Roaming\PTC Download\MED-60893-CD-240_M010\mathcad_viewable_support\MathCAD.mst in 0 seconds.
+Retrieve file: https://esd.ptc.com/files/PIM/MED-60893-CD-240_M010/mathcad_viewable_support/Distillr.msi.
+		Cached file: C:\Users\jirka\AppData\Roaming\PTC Download\MED-60893-CD-240_M010\mathcad_viewable_support\Distillr.msi in 0 seconds.
+so lis 25 21:51:24 17
+so lis 25 21:51:25 17
+Retrieve file: https://esd.ptc.com/files/PIM/MED-60893-CD-240_M010/ptcsh0/contact.vcf.
+		Cached file: C:\Users\jirka\AppData\Roaming\PTC Download\MED-60893-CD-240_M010\ptcsh0\contact.vcf in 0 seconds.
+Retrieve file: https://esd.ptc.com/files/PIM/MED-60893-CD-240_M010/ptcsh0/PrimeWixInstaller_64bit.msi.
+		Cached file: C:\Users\jirka\AppData\Roaming\PTC Download\MED-60893-CD-240_M010\ptcsh0\PrimeWixInstaller_64bit.msi in 73 seconds.
+so lis 25 21:52:41 17
+so lis 25 21:52:42 17
+Retrieve file: https://esd.ptc.com/files/PIM/MED-60893-CD-240_M010/install/addon/qualityagent_64.msi.
+		Cached file: C:\Users\jirka\AppData\Roaming\PTC Download\MED-60893-CD-240_M010\install\addon\qualityagent_64.msi in 4 seconds.
+so lis 25 21:52:47 17
+The Command line execution of "msiexec.exe /qn /I "C:\Users\jirka\AppData\Roaming\PTC Download\MED-60893-CD-240_M010\install\addon\qualityagent_64.msi" INSTALLDIR="C:\Program Files\PTC\DiagnosticTools"" returned an exit code of 0.
+Goodbye!

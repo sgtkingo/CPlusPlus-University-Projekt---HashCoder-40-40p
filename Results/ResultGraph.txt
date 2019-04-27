@@ -1,0 +1,7 @@
+|	HASH 	| 	 GRAPH      		|      COUNT 	|
+------------------------------------------------------------
+|	7	|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |	6	|
+|	6	|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |	6	|
+|	1	|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |	6	|
+|	5	|XXXXXXXXXXXXXXX                |	3	|
+Graph refresh at: May 12 2018 18:22:46

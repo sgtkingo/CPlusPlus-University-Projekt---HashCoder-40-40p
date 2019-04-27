@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526136919 source:h:\add\vsb\i_2017\alg\2sem\jirkaprojekt2\tests\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+
